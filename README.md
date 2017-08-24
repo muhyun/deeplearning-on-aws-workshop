@@ -14,5 +14,5 @@
  - [MXNet을 이용한 MNIST 분류하는 CNN](./labs/CNN-mnist.ipynb)
  - [MXNet의 Gluon을 이용한 CNN](./labs/CNN-mnist-gluon.ipynb)
 7. Deep Learning Part 3 – Recurrent Neural Network (RNN)
-   - [TensorFlow를 이용한 SIN 함수 예측](./RNN_LSTM_sin_prediction.ipynb)
-   - [TensorFlow를 이용한 주가 예측](./RNN_LSTM_StockPricePredcition.ipynb)
+ - [TensorFlow를 이용한 SIN 함수 예측](./labs/RNN_LSTM_sin_prediction.ipynb)
+ - [TensorFlow를 이용한 주가 예측](./labs/RNN_LSTM_StockPricePredcition.ipynb)
