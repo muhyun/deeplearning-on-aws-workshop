@@ -10,6 +10,9 @@
    - [MXNet Module](./labs/MXNet-Module.ipynb)
  - TensorFlow
 5. Deep Learning Part 1 – Linear Regression 및 Classification
+   - [MXNet Linear regression](./labs/Linear Regression, MXNet.ipynb)
+   - [TensorFlow Linear regression](./labs/Linear regression, TensorFlow.ipynb)
+   - [MXNet Multiclass regression](./labs/Multi-Class regression, MXNet.ipynb)
 6. Deep Learning Part 2 – Convolutional Neural Network (CNN)
  - [MXNet을 이용한 MNIST 분류하는 CNN](./labs/CNN-mnist.ipynb)
  - [MXNet의 Gluon을 이용한 CNN](./labs/CNN-mnist-gluon.ipynb)
